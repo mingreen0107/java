@@ -20,6 +20,8 @@ public class b1546 {
 			sum+=score[i];
 		}
 		System.out.println(sum/N);
+		
+		scan.close();
 	}
 
 }
